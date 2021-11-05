@@ -12,7 +12,8 @@ Welcome to my GitHub! I'm Goksel Yesiller, a System Engineering graduate who's t
 -  C# .NET
 -  Javascript
 -  HTML/CSS
--  NodeJs
+-  ReactJS
+-  NodeJS
 
 
  💡 Goals for 2021
