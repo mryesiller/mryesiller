@@ -10,6 +10,7 @@ Welcome to my GitHub! I'm Goksel Yesiller, a System Engineering graduate who's t
 ✔️ I'm currently learning
 
 -  C# .NET
+-  Python
 -  Javascript
 -  HTML/CSS
 -  ReactJS
