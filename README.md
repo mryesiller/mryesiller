@@ -21,7 +21,7 @@ Welcome to my GitHub! I'm Goksel Yesiller, a System Engineering graduate who's t
  - Become skilled in C#
  - javascript/HTML/CSS
  - React/NextJs/NodeJs
- - Full Stack Developer
+ - Full Stack Software Developer
  
  
 📫 How to reach me:
