@@ -16,7 +16,8 @@ Welcome to my GitHub! I'm Goksel Yesiller, a System Engineering graduate who's t
 
 ✔️ Active Projects
 
--[Lets go to TalecraftGuide](https://www.talecraft.guide)
+-TaleCraft is a Gaming NFT project on Avalanche.This is personal website to inform community about talecraft crafting system
+-[TalecraftGuide](https://www.talecraft.guide)
 
  💡 Goals for 2021
  
