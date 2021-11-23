@@ -14,6 +14,9 @@ Welcome to my GitHub! I'm Goksel Yesiller, a System Engineering graduate who's t
 -  ReactJS
 -  NodeJS
 
+✔️ Active Projects
+
+-[Lets go to TalecraftGuide](https://www.talecraft.guide)
 
  💡 Goals for 2021
  
