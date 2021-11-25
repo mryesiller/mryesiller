@@ -3,6 +3,8 @@
 
 Welcome to my GitHub! I'm Goksel Yesiller, a System Engineering graduate who's transitioning into Software Engineering through self-study and enrolling in a coding Bootcamp at Siliconmade Academy
 
+![Profile View Counter](https://komarev.com/ghpvc/?username=mryesiller)
+
 👩‍💻 I'm working on
 
 - I’m currently working on Siliconmade Academy Bootcamp
