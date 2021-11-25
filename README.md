@@ -7,7 +7,7 @@ Welcome to my GitHub! I'm Goksel Yesiller, a System Engineering graduate who's t
 
 - I’m currently working on Siliconmade Academy Bootcamp
 
-✔️ I'm currently learning
+:open_file_folder: I'm currently learning
 
 -  C# .NET
 -  Javascript
