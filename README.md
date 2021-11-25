@@ -7,14 +7,14 @@ Welcome to my GitHub! I'm Goksel Yesiller, a System Engineering graduate who's t
 
 - I’m currently working on Siliconmade Academy Bootcamp
 
-:open_file_folder: I'm currently learning
+✔️ I'm currently learning
 
 -  C# .NET
 -  Javascript
 -  ReactJS
 -  NodeJS
 
-✔️ Active Projects
+:open_file_folder: Active Projects
 
 - TaleCraft is a Gaming NFT project on Avalanche.This is personal website to inform community about talecraft crafting system
 - [TalecraftGuide](https://www.talecraft.guide)
