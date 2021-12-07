@@ -38,7 +38,6 @@ Welcome to my GitHub! I'm Goksel Yesiller, a System Engineering graduate who's t
  <a href="https://coderbyte.com/profile/gokselyesiller" target="blank" title="Coderbyte"><img align="center" src="/img/coderbyte_son.png"  alt="gokselyesiller" height="30" width="30" /> Coderbyte</a> 
  <a href="https://www.hackerrank.com/gokselyesiller" target="blank" title="LinkedIn"><img align="center" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/160_Hackerrank-1024.png"  alt="gokselyesiller" height="30" width="30" /> Hackerrank</a> 
  <a href="https://instagram.com/gokselyesiller" target="blank" title="Instagram"><img align="center"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="gokselyesiller" height="30" width="30" /> Instagram</a> 
- <a href="https://discord.gg/3kGnYm6" target="blank"><img align="center" src="https://seeklogo.com/images/D/discord-logo-134E148657-seeklogo.com.png" alt="3kGnYm6" height="30"  width="26" /> Discord</a>
  <a href="#" target="blank" title="gokselyesiller@gmail.com"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/gmail.png" alt="gokselyesiller" height="30"  width="26" /> gokselyesiller@gmail.com</a>
  </p>
  <hr>
