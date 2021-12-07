@@ -1,7 +1,7 @@
 
 
 <h2 align="center">Hi there 👋</h2>
-<hr>
+
 Welcome to my GitHub! I'm Goksel Yesiller, a System Engineering graduate who's transitioning into Software Engineering through self-study and enrolling in a coding Bootcamp at Siliconmade Academy
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=mryesiller)
