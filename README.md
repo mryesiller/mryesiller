@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm Goksel Yesiller, a System Engineering graduate who's t
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=mryesiller)
 
-👩‍💻 I'm working on
+
 <h2 align="left">👩‍💻  WORK & STUDY 👩‍💻:</h2>
 <p align="left">
 - I’m traniee on Siliconmade Academy Bootcamp
