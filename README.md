@@ -33,12 +33,12 @@ Welcome to my GitHub! I'm Goksel Yesiller, a System Engineering graduate who's t
  <hr>
  <h2 align="center">📫  CONTACT   📫</h2>
  <p align="center">
- <a href="https://www.linkedin.com/in/goksel-yesiller-830580204/" target="blank" title="LinkedIn"><img align="center" src="https://image.pngaaa.com/708/1947708-middle.png"  alt="cengizcmataraci" height="30" width="30" /></a>
- <a href="https://twitter.com/MrYesiller" target="blank" title="Twitter"><img align="center" src="https://clipartcraft.com/images/twitter-logo-png-green-4.png"  alt="cengizcmataraci" height="30" width="30" /></a>
+ <a href="https://www.linkedin.com/in/goksel-yesiller-830580204/" target="blank" title="LinkedIn"><img align="center" src="https://image.pngaaa.com/708/1947708-middle.png"  alt="cengizcmataraci" height="30" width="30" /> Linkedn</a>
+ <a href="https://twitter.com/MrYesiller" target="blank" title="Twitter"><img align="center" src="https://clipartcraft.com/images/twitter-logo-png-green-4.png"  alt="cengizcmataraci" height="30" width="30" /> Twitter</a>
  <a href="https://www.hackerrank.com/gokselyesiller" target="blank" title="HackerRank"><img width="30" height="30" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/hackerrank.png"> HackerRank</a>
- <a href="https://instagram.com/gokselyesiller" target="blank" title="Instagram"><img align="center"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="cengizcmataraci" height="30" width="30" /></a> 
- <a href="https://discord.gg/3kGnYm6" target="blank"><img align="center" src="https://seeklogo.com/images/D/discord-logo-134E148657-seeklogo.com.png" alt="3kGnYm6" height="30"  width="26" /></a>
- <a href="#" target="blank"title="gokselyesiller@gmail.com"><img align="center" src="https://duckduckgo.com/?q=gmail+svg&t=brave&iax=images&ia=images&iai=http%3A%2F%2Fcdn.onlinewebfonts.com%2Fsvg%2Fdownload_335506.png" alt="3kGnYm6" height="30"  width="26" /></a>
+ <a href="https://instagram.com/gokselyesiller" target="blank" title="Instagram"><img align="center"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="cengizcmataraci" height="30" width="30" /> Instagram</a> 
+ <a href="https://discord.gg/3kGnYm6" target="blank"><img align="center" src="https://seeklogo.com/images/D/discord-logo-134E148657-seeklogo.com.png" alt="3kGnYm6" height="30"  width="26" /> Discord</a>
+ <a href="#" target="blank" title="gokselyesiller@gmail.com"><img align="center" src="https://duckduckgo.com/?q=gmail+svg&t=brave&iax=images&ia=images&iai=http%3A%2F%2Fcdn.onlinewebfonts.com%2Fsvg%2Fdownload_335506.png" alt="3kGnYm6" height="30"  width="26" /> gokselyesiller@gmail.com</a>
  </p>
  <hr>
  
