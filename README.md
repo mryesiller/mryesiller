@@ -31,7 +31,7 @@ Welcome to my GitHub! I'm Goksel Yesiller, a System Engineering graduate who's t
  
  <h5 align="center">
     <code>
-      <a href="https://www.linkedin.com/in/gokselyesiller/" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/linkedin.svg"> LinkedIn</a></code>
+      <a href="https://www.linkedin.com/in/gokselyesiller/" target="_blank" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/linkedin.svg"> LinkedIn</a></code>
     <code><a href="https://www.hackerrank.com/gokselyesiller" title="HackerRank Profile"><img width="22" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/hackerrank.png"> HackerRank</a></code>    
     <code><a href="https://www.instagram.com/gokselyesiller/" title="Instagram Profile"><img width="22" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/instagram.svg"> Instagram</a></code>
   </h5>
