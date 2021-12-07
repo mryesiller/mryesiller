@@ -36,8 +36,9 @@ Welcome to my GitHub! I'm Goksel Yesiller, a System Engineering graduate who's t
 - Twitter : https://twitter.com/MrYesiller
 - E mail  : gokselyesiller@gmail.com
 
-
+<hr>
 <h2 align="center">🔥  Tools   🔥</h2>
+<br>
 <p align="center">
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="30" height="30"/> </a>
 <a href="https://visualstudio.microsoft.com/tr/" target="_blank"> <img src="https://www.pikpng.com/pngl/m/216-2164742_visual-studio-2013-logo-visual-studio-logo-png.png" alt="vscode" width="30" height="30"/> </a>
@@ -46,7 +47,7 @@ Welcome to my GitHub! I'm Goksel Yesiller, a System Engineering graduate who's t
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="30" height="30"/> </a>
 <a href="https://trello.com/en" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-512/trello-6-569395.png" alt="trello" width="30" height="30"/> </a>
 </p>
-
+<hr>
 
 
 <h2 align="center">⚡ Stats ⚡</h2>
