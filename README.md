@@ -10,7 +10,8 @@ Welcome to my GitHub! I'm Goksel Yesiller, a System Engineering graduate who's t
 <h2 align="left">👩‍💻  WORK & STUDY 👩‍💻:</h2>
 <p align="left">
 - I’m currently working on Siliconmade Academy Bootcamp
-<a href="https://siliconmadeacademy.com/" target="_blank"> <img src="/img/siliconmade.png" alt="csharp" width="80" height="80"/> </a> 
+ 
+<a href="https://siliconmadeacademy.com/" target="_blank"> <img src="/img/siliconmade.png" alt="csharp" width="100" height="50"/> </a> 
 </p>
 
 
