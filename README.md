@@ -37,7 +37,8 @@ Welcome to my GitHub! I'm Goksel Yesiller, a System Engineering graduate who's t
 - E mail  : gokselyesiller@gmail.com
 
 
-<h3 align="left">Tools:</h3>
+<h2 align="center">🔥  Tools   🔥</h2>
+<p align="center">
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="30" height="30"/> </a>
 <a href="https://visualstudio.microsoft.com/tr/" target="_blank"> <img src="https://www.pikpng.com/pngl/m/216-2164742_visual-studio-2013-logo-visual-studio-logo-png.png" alt="vscode" width="30" height="30"/> </a>
 <a href="https://discord.com/" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" alt="discord" width="30" height="30"/> </a>
