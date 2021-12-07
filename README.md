@@ -20,14 +20,7 @@ Welcome to my GitHub! I'm Goksel Yesiller, a System Engineering graduate who's t
 
 - TaleCraft is a Gaming NFT project on Avalanche.This is personal website to inform community about talecraft crafting system
 - [TalecraftGuide](https://www.talecraft.guide)
-
- 💡 Goals for 2021
  
- - Complete 4 stage on Siliconmade Academy Software Education program
- - Become skilled in C#
- - javascript/HTML/CSS
- - React/NextJs/NodeJs
- - Full Stack Software Developer
  
  <hr>
  <h2 align="center">:trident:  LANGUAGES   :trident:</h2>
