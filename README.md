@@ -38,7 +38,8 @@ Welcome to my GitHub! I'm Goksel Yesiller, a System Engineering graduate who's t
  
  <h2 align="center">🔥  CONTACT   🔥</h2>
  <p align="center">
- <a href="https://www.linkedin.com/in/goksel-yesiller-830580204/" target="blank"><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png"  alt="cengizcmataraci" height="30" width="30" /></a> 
+ <a href="https://www.linkedin.com/in/goksel-yesiller-830580204/" target="blank" title="LinkedIn Profile"><img align="center" src="https://image.pngaaa.com/708/1947708-middle.png"  alt="cengizcmataraci" height="30" width="30" /></a>
+ <a href="https://www.hackerrank.com/gokselyesiller" target="blank" title="HackerRank Profile"><img width="22" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/hackerrank.png"> HackerRank</a>
  <a href="https://instagram.com/gokselyesiller" target="blank"><img align="center"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="cengizcmataraci" height="30" width="30" /></a>
  <a href="https://medium.com/@cengizcmataraci" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@cengizcmataraci"  height="30" width="40" /></a>
  <a href="https://discord.gg/3kGnYm6" target="blank"><img align="center" src="https://seeklogo.com/images/D/discord-logo-134E148657-seeklogo.com.png" alt="3kGnYm6" height="30"  width="26" /></a>
