@@ -29,6 +29,13 @@ Welcome to my GitHub! I'm Goksel Yesiller, a System Engineering graduate who's t
  - React/NextJs/NodeJs
  - Full Stack Software Developer
  
+ <h5 align="center">
+    <code>
+      <a href="https://www.linkedin.com/in/ramazansancar/" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/linkedin.svg"> LinkedIn</a></code>
+    <code><a href="https://www.hackerrank.com/ramazansancar" title="HackerRank Profile"><img width="22" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/hackerrank.png"> HackerRank</a></code>
+    <code><a href="https://stackoverflow.com/users/15030183/ramazan-sancar" title="Stack Overflow Profile"><img width="22" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/stackoverflow.svg"> Stack Overflow</a></code>
+    <code><a href="https://www.instagram.com/sancaramazan/" title="Instagram Profile"><img width="22" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/instagram.svg"> Instagram</a></code>
+  </h5>
  
 📫 How to reach me:
 
