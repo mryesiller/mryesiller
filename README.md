@@ -38,7 +38,7 @@ Welcome to my GitHub! I'm Goksel Yesiller, a System Engineering graduate who's t
  <a href="https://www.hackerrank.com/gokselyesiller" target="blank" title="HackerRank"><img width="30" height="30" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/hackerrank.png"> HackerRank</a>
  <a href="https://instagram.com/gokselyesiller" target="blank" title="Instagram"><img align="center"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="cengizcmataraci" height="30" width="30" /> Instagram</a> 
  <a href="https://discord.gg/3kGnYm6" target="blank"><img align="center" src="https://seeklogo.com/images/D/discord-logo-134E148657-seeklogo.com.png" alt="3kGnYm6" height="30"  width="26" /> Discord</a>
- <a href="#" target="blank" title="gokselyesiller@gmail.com"><img align="center" src="https://duckduckgo.com/?q=gmail+svg&t=brave&iax=images&ia=images&iai=http%3A%2F%2Fcdn.onlinewebfonts.com%2Fsvg%2Fdownload_335506.png" alt="3kGnYm6" height="30"  width="26" /> gokselyesiller@gmail.com</a>
+ <a href="#" target="blank" title="gokselyesiller@gmail.com"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/gmail.png" alt="3kGnYm6" height="30"  width="26" /> gokselyesiller@gmail.com</a>
  </p>
  <hr>
  
