@@ -20,7 +20,9 @@ Welcome to my GitHub! I'm Goksel Yesiller, a System Engineering graduate who's t
 :open_file_folder: Active Projects
 
 - TaleCraft is a Gaming NFT project on Avalanche.This is personal website to inform community about talecraft crafting system
-<a href="https://www.talecraft.guide" target="_blank"> <img src="/img/logo.webp" alt="csharp" width="40" height="40"/> </a>
+
+<a href="https://www.talecraft.guide" target="_blank"> <img src="/img/logo.webp" alt="csharp" width="80" height="80"/> </a>
+
 - [TalecraftGuide](https://www.talecraft.guide)
  
  
