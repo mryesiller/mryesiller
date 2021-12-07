@@ -95,7 +95,7 @@ inform community about talecraft crafting system
 <h2 align="center">📫 CONTACT 📫</h2>
 <p align="center">
   <a
-    href="https://www.linkedin.com/in/goksel-yesiller-830580204/"
+    href="www.linkedin.com/in/gokselyesiller"
     target="blank"
     title="LinkedIn"
     ><img
