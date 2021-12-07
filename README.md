@@ -7,8 +7,12 @@ Welcome to my GitHub! I'm Goksel Yesiller, a System Engineering graduate who's t
 ![Profile View Counter](https://komarev.com/ghpvc/?username=mryesiller)
 
 👩‍💻 I'm working on
-
+<h2 align="left">👩‍💻  WORK & STUDY 👩‍💻:</h2>
+<p align="left">
 - I’m currently working on Siliconmade Academy Bootcamp
+<a href="https://siliconmadeacademy.com/" target="_blank"> <img src="/img/siliconmade.png" alt="csharp" width="80" height="80"/> </a> 
+</p>
+
 
 ✔️ I'm currently learning
 
@@ -17,7 +21,7 @@ Welcome to my GitHub! I'm Goksel Yesiller, a System Engineering graduate who's t
 -  ReactJS
 -  NodeJS
 
-:open_file_folder: Active Projects
+<h2 align="left">:open_file_folder:  PROJECTS   :open_file_folder:</h2>
 
 - TaleCraft is a Gaming NFT project on Avalanche.This is personal website to inform community about talecraft crafting system
 
