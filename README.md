@@ -3,18 +3,7 @@
 Welcome to my GitHub! I'm Goksel Yesiller, a System Engineering graduate who's
 transitioning into Software Engineering through self-study and enrolling in a
 coding Bootcamp at Siliconmade Academy 
-<h4 align="left">About</h4>
-* Fast learning (i can learn anything between 1-10days.if i cant killing me is free :) )
- 
-* Let's deduce principle
- 
-* Researcher
- 
-* Take plesaure from coding
- 
-* Excited
 
-* Unpatient
 <h2 align="left">👩‍💻 ABOUT 👩‍💻:</h2>
 <p align="left">
   <ul>
