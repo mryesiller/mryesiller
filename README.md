@@ -8,7 +8,7 @@ coding Bootcamp at Siliconmade Academy
 <p align="left">
   <ul>
     <li>Quick learner (i can learn anything between 1-10days.if i cant killing me is free :) )</li>
-    <li>deductive principle</li>
+    <li>Deductive principle</li>
     <li>Researcher</li>
     <li>Take plesaure from coding</li>
     <li>Excited</li>
