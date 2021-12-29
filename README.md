@@ -7,12 +7,12 @@ coding Bootcamp at Siliconmade Academy
 <h2 align="left">👩‍💻 ABOUT 👩‍💻:</h2>
 <p align="left">
   <ul>
-    <li>Fast learning (i can learn anything between 1-10days.if i cant killing me is free :) )</li>
-    <li>Let's deduce principle</li>
+    <li>Quick learner (i can learn anything between 1-10days.if i cant killing me is free :) )</li>
+    <li>deductive principle</li>
     <li>Researcher</li>
     <li>Take plesaure from coding</li>
     <li>Excited</li>
-    <li>Unpatient</li>
+    <li>Impatient</li>
   </ul>
 </p>
 
