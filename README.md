@@ -43,7 +43,7 @@ inform community about talecraft crafting system
 </p>
 
 <hr />
-<h2 align="center">:trident: LANGUAGES :trident:</h2>
+<h2 align="center">:trident: Languages and Technologies :trident:</h2>
 <p align="center">
   <a href="https://www.w3schools.com/cs/" target="_blank">
     <img
