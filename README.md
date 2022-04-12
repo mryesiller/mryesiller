@@ -37,6 +37,9 @@ inform community about talecraft crafting system
   <a href="https://www.talecraft.guide" target="_blank">
     <img src="/img/logo.webp" alt="csharp" width="80" height="80" />
   </a>
+  <a href="https://gusto-finalproject.herokuapp.com" target="_blank">
+    <img src="/img/gusto.png" alt="csharp" width="80" height="80" />
+  </a>
 </p>
 
 <hr />
