@@ -104,6 +104,14 @@ inform community about talecraft crafting system
       height="40"
     />
   </a>
+   <a href="https://remix.ethereum.org/" target="_blank">
+    <img
+      src="https://www.logosvgpng.com/wp-content/uploads/2018/10/solidity-logo-vector.png"
+      alt="remix"
+      width="40"
+      height="40"
+    />
+  </a>
 </p>
 
 <hr />
