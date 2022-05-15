@@ -26,7 +26,7 @@ coding Bootcamp at Siliconmade Academy
   </a>
 </p>
 
-✔️ I'm currently learning and developing on  --> **Javascript** - **ReactJS** - **NodeJS** - **Solidity** - **Web3**
+✔️ I'm currently learning and developing on  --> **Javascript** - **ReactJS** - **NodeJS** - **Solidity** - **Web3** - **C#**
 
 <h2 align="left">:open_file_folder: PROJECTS :open_file_folder:</h2>
 
