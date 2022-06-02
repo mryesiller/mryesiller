@@ -34,7 +34,7 @@ coding Bootcamp at Siliconmade Academy
 inform community about talecraft crafting system
 
 <p align="left">
-  <a href="[https://www.talecraft.guide](https://github.com/mryesiller/Talecraft_Guide_WebSite)" target="_blank">
+  <a href="https://github.com/mryesiller/Talecraft_Guide_WebSite" target="_blank">
     <img src="/img/logo.webp" alt="csharp" width="80" height="80" />
   </a>
   <a href="https://gusto-finalproject.herokuapp.com" target="_blank">
