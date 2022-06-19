@@ -151,7 +151,7 @@ inform community about talecraft crafting system
       height="30"
       width="30"
     />
-    Coderbyte</a
+    Leetcode</a
   >
   <a
     href="https://www.hackerrank.com/gokselyesiller"
