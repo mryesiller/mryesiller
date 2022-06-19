@@ -7,7 +7,7 @@ coding Bootcamp at Siliconmade Academy
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=mryesiller)
 <br><br>
-- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
+
 ✔️ I'm currently learning and developing on  --> **Javascript** - **ReactJS** - **NodeJS** - **Solidity** - **Web3** 
 <br><br>
 
