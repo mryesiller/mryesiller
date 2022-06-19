@@ -26,15 +26,12 @@ inform community about talecraft crafting system
 </p>
 <p align="left">
   <ul>
-    <li>
-      ```
-        - <a
-        -   href="https://mryesiller.github.io/HTML-ThemeClock/"
-        -   target="blank"
-         -  title="ThemeClock"
-        -  color="white"
-       - >ThemeClock</a
-      ```    
+    <li>    
+        <a
+          href="https://mryesiller.github.io/HTML-ThemeClock/"
+          target="blank"
+          title="ThemeClock"        
+       >ThemeClock</a        
     </li>
   </ul>  
 </p>  
