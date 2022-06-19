@@ -7,15 +7,8 @@ coding Bootcamp at Siliconmade Academy
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=mryesiller)
 
-<h2 align="center">👩‍💻 WORK & STUDY 👩‍💻:</h2>
-<p align="left">
-  <a href="https://siliconmadeacademy.com/" target="_blank">
-    <img src="/img/siliconmade.png" alt="csharp" width="100" height="50" />I’m
-    traniee on Siliconmade Academy Bootcamp
-  </a>
-</p>
 
-✔️ I'm currently learning and developing on  --> **Javascript** - **ReactJS** - **NodeJS** - **Solidity** - **Web3** - **C#**
+✔️ I'm currently learning and developing on  --> **Javascript** - **ReactJS** - **NodeJS** - **Solidity** - **Web3** 
 
 <h2 align="center">:open_file_folder: PROJECTS :open_file_folder:</h2>
 
