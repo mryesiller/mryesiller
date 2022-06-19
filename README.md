@@ -200,16 +200,16 @@ inform community about talecraft crafting system
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"
       alt="vscode"
-      width="30"
-      height="30"
+      width="40"
+      height="40"
     />
   </a>
   <a href="https://visualstudio.microsoft.com/tr/" target="_blank">
     <img
       src="https://www.pikpng.com/pngl/m/216-2164742_visual-studio-2013-logo-visual-studio-logo-png.png"
       alt="vscode"
-      width="30"
-      height="30"
+      width="40"
+      height="40"
     />
   </a>
   <a href="https://discord.com/" target="_blank">
@@ -224,40 +224,40 @@ inform community about talecraft crafting system
     <img
       src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
       alt="postman"
-      width="30"
-      height="30"
+      width="40"
+      height="40"
     />
   </a>
   <a href="https://www.photoshop.com/en" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
       alt="photoshop"
-      width="30"
-      height="30"
+      width="40"
+      height="40"
     />
   </a>
   <a href="https://trello.com/en" target="_blank">
     <img
       src="https://cdn.iconscout.com/icon/free/png-512/trello-6-569395.png"
       alt="trello"
-      width="30"
-      height="30"
+      width="40"
+      height="40"
     />
   </a>
    <a href="https://aws.amazon.com/" target="_blank">
     <img
       src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fa0.awsstatic.com%2Flibra-css%2Fimages%2Flogos%2Faws_logo_smile_1200x630.png&f=1&nofb=1"
       alt="aws"
-      width="30"
-      height="30"
+      width="40"
+      height="40"
     />
   </a>
   <a href="https://www.heroku.com/" target="_blank">
     <img
       src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdailysmarty-production.s3.amazonaws.com%2Fuploads%2Fpost%2Fimg%2F509%2Fheroku-logo.jpg&f=1&nofb=1"
       alt="heroku"
-      width="30"
-      height="30"
+      width="40"
+      height="40"
     />
   </a>
 </p>
