@@ -31,7 +31,7 @@ inform community about talecraft crafting system
           href="https://mryesiller.github.io/HTML-ThemeClock/"
           target="blank"
           title="ThemeClock"
-          style="color: white; text-decoration: underline;text-decoration-style: dotted;"
+          color="white"
         >ThemeClock</a
     </li>
   </ul>  
