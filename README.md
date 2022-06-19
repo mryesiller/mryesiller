@@ -141,12 +141,12 @@ inform community about talecraft crafting system
     Twitter</a
   >
   <a
-    href="https://coderbyte.com/profile/gokselyesiller"
+    href="https://leetcode.com/mryesiller/"
     target="blank"
-    title="Coderbyte"
+    title="Leetcode"
     ><img
       align="center"
-      src="/img/coderbyte_son.png"
+      src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fleetcode.com%2Fstatic%2Fimages%2FLeetCode_logo.png&f=1&nofb=1"
       alt="gokselyesiller"
       height="30"
       width="30"
