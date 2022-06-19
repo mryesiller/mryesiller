@@ -260,6 +260,30 @@ inform community about talecraft crafting system
       height="40"
     />
   </a>
+  <a href="https://www.travis-ci.com/" target="_blank">
+    <img
+      src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fseekicon.com%2Ffree-icon-download%2Ftravis-ci_1.png&f=1&nofb=1"
+      alt="travis cı"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img
+      src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdatawokagaku.com%2Fwp-content%2Fuploads%2F2020%2F01%2Fdocker_icon.png&f=1&nofb=1"
+      alt="docker"
+      width="40"
+      height="40"
+    />
+  </a>
+    <a href="https://gitforwindows.org/" target="_blank">
+    <img
+      src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fobscureproblemsandgotchas.com%2Fwp-content%2Fuploads%2F2018%2F09%2FGit-bash.png&f=1&nofb=1"
+      alt="gitbash"
+      width="40"
+      height="40"
+    />
+  </a>
 </p>
 <hr />
 
