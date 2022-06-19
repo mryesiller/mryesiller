@@ -4,17 +4,6 @@ Welcome to my GitHub! I'm Goksel Yesiller, a System Engineering graduate who's
 transitioning into Software Engineering through self-study and enrolling in a
 coding Bootcamp at Siliconmade Academy 
 
-<h2 align="left">👩‍💻 ABOUT 👩‍💻:</h2>
-<p align="left">
-  <ul>
-    <li>Quick learner (i can learn anything between 1-10days.if i cant killing me is free :) )</li>
-    <li>Deductive principle</li>
-    <li>Researcher</li>
-    <li>Take plesaure from coding</li>
-    <li>Excited</li>
-    <li>Impatient</li>
-  </ul>
-</p>
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=mryesiller)
 
