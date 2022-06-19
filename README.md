@@ -246,7 +246,7 @@ inform community about talecraft crafting system
   </a>
    <a href="https://aws.amazon.com/" target="_blank">
     <img
-      src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.icon-icons.com%2Ficons2%2F2407%2FPNG%2F512%2Faws_icon_146074.png&f=1&nofb=1"
+      src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fa0.awsstatic.com%2Flibra-css%2Fimages%2Flogos%2Faws_logo_smile_1200x630.png&f=1&nofb=1"
       alt="aws"
       width="30"
       height="30"
