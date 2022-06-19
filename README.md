@@ -252,6 +252,14 @@ inform community about talecraft crafting system
       height="30"
     />
   </a>
+  <a href="https://www.heroku.com/" target="_blank">
+    <img
+      src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdailysmarty-production.s3.amazonaws.com%2Fuploads%2Fpost%2Fimg%2F509%2Fheroku-logo.jpg&f=1&nofb=1"
+      alt="heroku"
+      width="30"
+      height="30"
+    />
+  </a>
 </p>
 <hr />
 
