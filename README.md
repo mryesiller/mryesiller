@@ -28,13 +28,12 @@ inform community about talecraft crafting system
   <table align="center"> 
       <tr>
         <td><h3>HTML Projects</h3></td>
-        <td><h3>HTML Projects</h3></td>
-        <td><h3>HTML Projects</h3></td>
-      </tr>  
-      <td>
-        
-        <br/>
-        <ul>
+        <td><h3>React Projects</h3></td>
+        <td><h3>Nodejs Projects</h3></td>
+      </tr> 
+      <tr>
+        <td>
+          <ul>
           <li>    
             <a
               href="https://mryesiller.github.io/HTML-ThemeClock/"
@@ -64,25 +63,22 @@ inform community about talecraft crafting system
             >Pokedex</a        
           </li>
       </ul>  
-    </td>
-    <td>
-      <h3>React Projects</h3>
-      <br/>
-    </td>
-    <td>
-      <h3>Nodejs Projects</h3>
-      <br/>
-      <ul>
-         <li>    
-            <a
-              href="https://nodemailer-expressjs.herokuapp.com/"
-              target="blank"
-              title="Nodemailer"        
-            >Nodemailer with Express</a        
-         </li>
-      </ul>  
-    </td>
-    
+        </td>  
+        <td>
+        </td>
+           <ul>
+            <li>    
+              <a
+                href="https://nodemailer-expressjs.herokuapp.com/"
+                target="blank"
+                title="Nodemailer"        
+              >Nodemailer with Express</a        
+            </li>
+          </ul> 
+        <td>
+          
+        </td>  
+     </tr>      
   </table>      
 </div>  
 
