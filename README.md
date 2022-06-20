@@ -52,6 +52,13 @@ inform community about talecraft crafting system
               title="Hoverboard"        
             >Hoverboard</a        
           </li>
+          <li>    
+            <a
+              href="https://mryesiller.github.io/HTML_Pokedex/"
+              target="blank"
+              title="Pokedex"        
+            >Pokedex</a        
+          </li>
       </ul>  
     </td>
     <td>
