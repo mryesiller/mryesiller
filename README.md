@@ -26,9 +26,13 @@ inform community about talecraft crafting system
 </p>
 <div align="left">
   <table align="center"> 
-    
+      <tr>
+        <td><h3>HTML Projects</h3></td>
+        <td><h3>HTML Projects</h3></td>
+        <td><h3>HTML Projects</h3></td>
+      </tr>  
       <td>
-        <h3>HTML Projects</h3>
+        
         <br/>
         <ul>
           <li>    
