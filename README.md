@@ -26,7 +26,7 @@ inform community about talecraft crafting system
 </p>
 <div align="left">
   <table align="center"> 
-    <tr>
+    
       <td>
         <h3>HTML Projects</h3>
         <br/>
@@ -78,7 +78,7 @@ inform community about talecraft crafting system
          </li>
       </ul>  
     </td>
-  </tr>  
+    
   </table>      
 </div>  
 
