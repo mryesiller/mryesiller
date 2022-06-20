@@ -65,8 +65,9 @@ inform community about talecraft crafting system
       </ul>  
         </td>  
         <td>
-        </td>
-           <ul>
+        </td>            
+        <td>
+          <ul>
             <li>    
               <a
                 href="https://nodemailer-expressjs.herokuapp.com/"
@@ -74,9 +75,7 @@ inform community about talecraft crafting system
                 title="Nodemailer"        
               >Nodemailer with Express</a        
             </li>
-          </ul> 
-        <td>
-          
+          </ul>
         </td>  
      </tr>      
   </table>      
