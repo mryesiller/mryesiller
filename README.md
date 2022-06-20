@@ -49,11 +49,11 @@ inform community about talecraft crafting system
     </td>
     <td>
       <h3>React Projects</h3>
-      <br />
+      <br/>
     </td>
     <td>
       <h3>Nodejs Projects</h3>
-      <br />
+      <br/>
     </td>
   </tr>  
   </table>      
