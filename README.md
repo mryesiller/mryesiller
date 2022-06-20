@@ -24,24 +24,40 @@ inform community about talecraft crafting system
     <img src="/img/gusto.png" alt="csharp" width="80" height="80" />
   </a>
 </p>
-<p align="left">
-  <ul>
-    <li>    
-        <a
-          href="https://mryesiller.github.io/HTML-ThemeClock/"
-          target="blank"
-          title="ThemeClock"        
-       >ThemeClock</a        
-    </li>
-    <li>    
-        <a
-          href="https://mryesiller.github.io/HTML_GithubProfiles/"
-          target="blank"
-          title="GithubProfiles"        
-       >Github Profiles</a        
-    </li>
-  </ul>  
-</p>  
+<div align="left">
+  <table align="center"> 
+    <tr>
+      <td>
+        <h3>HTML Projects</h3>
+        <br/>
+        <ul>
+          <li>    
+            <a
+              href="https://mryesiller.github.io/HTML-ThemeClock/"
+              target="blank"
+              title="ThemeClock"        
+            >ThemeClock</a        
+          </li>
+          <li>    
+            <a
+              href="https://mryesiller.github.io/HTML_GithubProfiles/"
+              target="blank"
+              title="GithubProfiles"        
+            >Github Profiles</a        
+          </li>
+      </ul>  
+    </td>
+    <td>
+      <h3>React Projects</h3>
+      <br />
+    </td>
+    <td>
+      <h3>Nodejs Projects</h3>
+      <br />
+    </td>
+  </tr>  
+  </table>      
+</div>  
 
 <hr />
 <h2 align="center">:trident: Languages and Technologies :trident:</h2>
