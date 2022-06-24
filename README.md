@@ -19,10 +19,7 @@ inform community about talecraft crafting system
 <p align="left">
   <a href="https://github.com/mryesiller/Talecraft_Guide_WebSite" target="_blank">
     <img src="/img/logo.webp" alt="csharp" width="80" height="80" />
-  </a>
-  <a href="https://gusto-finalproject.herokuapp.com" target="_blank">
-    <img src="/img/gusto.png" alt="csharp" width="80" height="80" />
-  </a>
+  </a>  
 </p>
 <div align="left">
   <table align="center"> 
@@ -81,6 +78,13 @@ inform community about talecraft crafting system
                 target="blank"
                 title="Nodemailer"        
               >Nodemailer with Express</a        
+            </li>
+            <li>    
+              <a
+                href="https://gusto-finalproject.herokuapp.com"
+                target="blank"
+                title="Patika Bootcamp Project"        
+              >Bootcamp Final Project</a        
             </li>
           </ul>
         </td>  
