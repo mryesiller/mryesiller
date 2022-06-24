@@ -13,14 +13,6 @@ coding Bootcamp at Siliconmade Academy
 
 <h2 align="center">:open_file_folder: PROJECTS :open_file_folder:</h2>
 
-- TaleCraft is a Gaming NFT project on Avalanche.This is personal website to
-inform community about talecraft crafting system
-
-<p align="left">
-  <a href="https://github.com/mryesiller/Talecraft_Guide_WebSite" target="_blank">
-    <img src="/img/logo.webp" alt="csharp" width="80" height="80" />
-  </a>  
-</p>
 <div align="left">
   <table align="center"> 
       <tr>
@@ -31,6 +23,13 @@ inform community about talecraft crafting system
       <tr>
         <td>
           <ul>
+          <li>    
+            <a
+              href="https://github.com/mryesiller/Talecraft_Guide_WebSite"
+              target="blank"
+              title="Talecraft"        
+            >Talecraft Guide Website</a        
+          </li>
           <li>    
             <a
               href="https://mryesiller.github.io/HTML-ThemeClock/"
