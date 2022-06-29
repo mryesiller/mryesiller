@@ -90,6 +90,13 @@ coding Bootcamp at Siliconmade Academy
                 title="WeatherApp"        
               >Weather App</a        
             </li>
+            <li>    
+              <a
+                href="https://mryesiller-react-musicplayer.herokuapp.com/"
+                target="blank"
+                title="MusicPlayer"        
+              >Music Player</a        
+            </li>
           </ul>  
         </td>            
         <td>
