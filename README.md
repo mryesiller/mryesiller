@@ -92,7 +92,7 @@ coding Bootcamp at Siliconmade Academy
             </li>
             <li>    
               <a
-                href="https://mryesiller-react-musicplayer.herokuapp.com/"
+                href="https://golden-zuccutto-812ec2.netlify.app/"
                 target="blank"
                 title="MusicPlayer"        
               >Music Player</a        
