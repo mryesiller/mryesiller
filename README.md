@@ -78,7 +78,7 @@ coding Bootcamp at Siliconmade Academy
           <ul>
             <li>    
               <a
-                href="https://mryesiller-react-todoapp.herokuapp.com/"
+                href="https://delightful-florentine-0e0912.netlify.app/"
                 target="blank"
                 title="TodoApp"        
               >Todo App</a        
