@@ -16,7 +16,7 @@ coding Bootcamp at Siliconmade Academy
 <div align="left">
   <table align="center"> 
       <tr>
-        <td><h3>HTML Projects</h3></td>
+        <td><h3>HTML Studies</h3></td>
         <td><h3>React Projects</h3></td>
         <td><h3>Nodejs Projects</h3></td>
       </tr> 
