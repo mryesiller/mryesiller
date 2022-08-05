@@ -8,8 +8,8 @@ coding Bootcamp at Siliconmade Academy
 ![Profile View Counter](https://komarev.com/ghpvc/?username=mryesiller)
 <br><br>
 
-Personal Website --> https://gokselyesiller.netlify.app/
-Medium articles  --> https://medium.com/@gokselyesiller
+* Personal Website --> https://gokselyesiller.netlify.app/
+* Medium articles  --> https://medium.com/@gokselyesiller
 <br><br>
 
 ✔️ I'm currently learning and developing on  --> **Javascript** - **ReactJS** - **NodeJS** - **Solidity** - **Web3** 
