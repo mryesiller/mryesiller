@@ -233,7 +233,7 @@ coding Bootcamp at Siliconmade Academy
   <a href="https://medium.com/@gokselyesiller" target="blank" title="Medium"
     ><img
       align="center"
-      src="https://cdn.onlinewebfonts.com/svg/img_256332.png"
+      src="https://cdn1.iconfinder.com/data/icons/social-media-logos-7/64/medium-512.png"
       alt="gokselyesiller"
       height="30"
       width="30"
