@@ -229,8 +229,7 @@ coding Bootcamp at Siliconmade Academy
       width="30"
     />
     Twitter</a
-  >
-  
+  >  
   <a
     href="https://instagram.com/gokselyesiller"
     target="blank"
