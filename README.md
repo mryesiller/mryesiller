@@ -101,6 +101,13 @@ coding Bootcamp at Siliconmade Academy
                 title="MusicPlayer"        
               >Music Player</a        
             </li>
+            <li>    
+              <a
+                href="https://zustand-example.netlify.app/"
+                target="blank"
+                title="Zustand-TodoApp"        
+              >Zustand-TodoApp</a        
+            </li>
           </ul>  
         </td>            
         <td>
