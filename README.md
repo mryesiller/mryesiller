@@ -230,6 +230,32 @@ coding Bootcamp at Siliconmade Academy
     />
     Twitter</a
   >
+  
+  <a
+    href="https://instagram.com/gokselyesiller"
+    target="blank"
+    title="Instagram"
+    ><img
+      align="center"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png"
+      alt="gokselyesiller"
+      height="30"
+      width="30"
+    />
+    Instagram</a
+  >
+  <a href="#" target="blank" title="gokselyesiller@gmail.com"
+    ><img
+      align="center"
+      src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/gmail.png"
+      alt="gokselyesiller"
+      height="30"
+      width="26"
+    />
+    gokselyesiller@gmail.com</a
+  >
+</p>
+<p align="center">
   <a
     href="https://leetcode.com/mryesiller/"
     target="blank"
@@ -255,29 +281,6 @@ coding Bootcamp at Siliconmade Academy
       width="30"
     />
     Hackerrank</a
-  >
-  <a
-    href="https://instagram.com/gokselyesiller"
-    target="blank"
-    title="Instagram"
-    ><img
-      align="center"
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png"
-      alt="gokselyesiller"
-      height="30"
-      width="30"
-    />
-    Instagram</a
-  >
-  <a href="#" target="blank" title="gokselyesiller@gmail.com"
-    ><img
-      align="center"
-      src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/gmail.png"
-      alt="gokselyesiller"
-      height="30"
-      width="26"
-    />
-    gokselyesiller@gmail.com</a
   >
 </p>
 <hr />
