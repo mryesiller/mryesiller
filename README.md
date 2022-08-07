@@ -11,7 +11,7 @@ transitioning into Software Engineering through self-study. I create awesome MER
 * Medium articles  --> https://medium.com/@gokselyesiller
 <br><br>
 
-✔️ I'm currently learning and developing on  --> **Javascript** - **ReactJS** - **NodeJS** - **Solidity** - **Web3** 
+✔️ I'm currently learning and developing on  --> **Javascript** - **ReactJS** - **NodeJS** - **Docker** - **Solidity** - **Web3** 
 <br><br>
 
 <h2 align="center">:open_file_folder: PROJECTS :open_file_folder:</h2>
