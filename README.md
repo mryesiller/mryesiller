@@ -220,7 +220,7 @@ coding Bootcamp at Siliconmade Academy
     />
     Linkedn</a
   >
-  <a href="https://twitter.com/MrYesiller" target="blank" title="Twitter"
+   <a href="https://twitter.com/MrYesiller" target="blank" title="Twitter"
     ><img
       align="center"
       src="https://clipartcraft.com/images/twitter-logo-png-green-4.png"
@@ -229,6 +229,16 @@ coding Bootcamp at Siliconmade Academy
       width="30"
     />
     Twitter</a
+  > 
+  <a href="https://medium.com/@gokselyesiller" target="blank" title="Medium"
+    ><img
+      align="center"
+      src="https://cdn.onlinewebfonts.com/svg/img_256332.png"
+      alt="gokselyesiller"
+      height="30"
+      width="30"
+    />
+    Medium</a
   >  
   <a
     href="https://instagram.com/gokselyesiller"
@@ -242,17 +252,7 @@ coding Bootcamp at Siliconmade Academy
       width="30"
     />
     Instagram</a
-  >
-  <a href="#" target="blank" title="gokselyesiller@gmail.com"
-    ><img
-      align="center"
-      src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/gmail.png"
-      alt="gokselyesiller"
-      height="30"
-      width="26"
-    />
-    gokselyesiller@gmail.com</a
-  >
+  >  
 </p>
 <p align="center">
   <a
@@ -280,6 +280,16 @@ coding Bootcamp at Siliconmade Academy
       width="30"
     />
     Hackerrank</a
+  >
+  <a href="#" target="blank" title="gokselyesiller@gmail.com"
+    ><img
+      align="center"
+      src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/gmail.png"
+      alt="gokselyesiller"
+      height="30"
+      width="26"
+    />
+    gokselyesiller@gmail.com</a
   >
 </p>
 <hr />
