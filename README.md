@@ -107,6 +107,13 @@ transitioning into Software Engineering through self-study. I create awesome MER
                 title="Zustand-TodoApp"        
               >Zustand-TodoApp</a        
             </li>
+            <li>    
+              <a
+                href="https://github.com/mryesiller/mern-auth-boilerplate"
+                target="blank"
+                title="MERN auth with zustand"        
+              >MERN-auth-boiler with Zustand-context </a        
+            </li>
           </ul>  
         </td>            
         <td>
