@@ -121,6 +121,12 @@ transitioning into Software Engineering through self-study. I create awesome MER
                 title="MERN auth with zustand"        
               >MERN-auth-boiler with Zustand-context </a        
             </li>
+            <li>    
+              <a href="https://react-tictactoe-zustand.netlify.app/"
+                target="blank"
+                title="tic-tac-toe"        
+              >Tic-Tac-Toe </a        
+            </li>
           </ul>  
         </td>            
         <td>
