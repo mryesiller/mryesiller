@@ -411,10 +411,10 @@ transitioning into Software Engineering through self-study. I create awesome MER
 <h2 align="center">⚡ Github Stats ⚡</h2>
 <br />
 <div align="center">
-  <p float="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mryesiller&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mryesiller&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</p>
+  
+  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=mryesiller&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
+<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mryesiller&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+
 </div>
 <div align="center">
   <a
