@@ -224,96 +224,7 @@ transitioning into Software Engineering through self-study. I create awesome MER
 </p>
 
 <hr />
-<h2 align="center">📫 CONTACT 📫</h2>
-<p align="center">
-  <a
-    href="www.linkedin.com/in/gokselyesiller"
-    target="blank"
-    title="LinkedIn"
-    ><img
-      align="center"
-      src="https://image.pngaaa.com/708/1947708-middle.png"
-      alt="gokselyesiller"
-      height="30"
-      width="30"
-    />
-    Linkedn</a
-  >
-   <a href="https://twitter.com/MrYesiller" target="blank" title="Twitter"
-    ><img
-      align="center"
-      src="https://clipartcraft.com/images/twitter-logo-png-green-4.png"
-      alt="gokselyesiller"
-      height="30"
-      width="30"
-    />
-    Twitter</a
-  > 
-  <a href="https://medium.com/@gokselyesiller" target="blank" title="Medium"
-    ><img
-      align="center"
-      src="https://cdn1.iconfinder.com/data/icons/social-media-logos-7/64/medium-512.png"
-      alt="gokselyesiller"
-      height="30"
-      width="30"
-    />
-    Medium</a
-  >  
-  <a
-    href="https://instagram.com/gokselyesiller"
-    target="blank"
-    title="Instagram"
-    ><img
-      align="center"
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png"
-      alt="gokselyesiller"
-      height="30"
-      width="30"
-    />
-    Instagram</a
-  >  
-</p>
-<p align="center">
-  <a
-    href="https://leetcode.com/mryesiller/"
-    target="blank"
-    title="Leetcode"
-    ><img
-      align="center"
-      src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fleetcode.com%2Fstatic%2Fimages%2FLeetCode_logo.png&f=1&nofb=1"
-      alt="gokselyesiller"
-      height="30"
-      width="30"
-    />
-    Leetcode</a
-  >
-  <a
-    href="https://www.hackerrank.com/gokselyesiller"
-    target="blank"
-    title="LinkedIn"
-    ><img
-      align="center"
-      src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/160_Hackerrank-1024.png"
-      alt="gokselyesiller"
-      height="30"
-      width="30"
-    />
-    Hackerrank</a
-  >
-  <a href="#" target="blank" title="gokselyesiller@gmail.com"
-    ><img
-      align="center"
-      src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/gmail.png"
-      alt="gokselyesiller"
-      height="30"
-      width="26"
-    />
-    gokselyesiller@gmail.com</a
-  >
-</p>
-<hr />
 
-<hr />
 <h2 align="center">🔥 Tools 🔥</h2>
 <br />
 <p align="center">
@@ -439,4 +350,21 @@ transitioning into Software Engineering through self-study. I create awesome MER
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gokselyesiller/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@gokselyesiller/0" alt="Latest medium article">
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gokselyesiller/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@gokselyesiller/1" alt="Latest medium article"> </a>
 
+<br/>
 
+<h2 align="center">⚡ Connect With Me ⚡</h2>
+
+<p left="center">
+<a href="https://twitter.com/MrYesiller">
+  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
+</a> 
+<a href="https://www.linkedin.com/in/gokselyesiller/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
+</a> 
+<a href="https://medium.com/@gokselyesiller">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height=25>
+</a>
+<a href="mailto:gokselyesiller@gmail.com">
+  <img src="	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
+</a>
+</p>
