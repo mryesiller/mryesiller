@@ -434,6 +434,7 @@ transitioning into Software Engineering through self-study. I create awesome MER
     />
   </a>
 </div>
+
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -444,3 +445,9 @@ transitioning into Software Engineering through self-study. I create awesome MER
     />
   </a>
 </div>
+
+<b>⚡ Github Stats</b>
+<p float="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mryesiller&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mryesiller&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
