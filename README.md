@@ -432,4 +432,5 @@ transitioning into Software Engineering through self-study. I create awesome MER
 
 <br /><br />
 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gokselyesiller/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@gokselyesiller/0" alt="Latest medium article">
 
