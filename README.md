@@ -127,6 +127,12 @@ transitioning into Software Engineering through self-study. I create awesome MER
                 title="tic-tac-toe"        
               >Tic-Tac-Toe </a        
             </li>
+             <li>    
+              <a href="https://popupsmart-react-practicum.netlify.app/login"
+                target="blank"
+                title="todo-app-CRUD"        
+              >Popupsmart react practicum </a        
+            </li>
           </ul>  
         </td>            
         <td>
