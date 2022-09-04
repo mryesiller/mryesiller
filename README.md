@@ -8,6 +8,7 @@ transitioning into Software Engineering through self-study. I create awesome MER
 <br><br>
 
 * Personal Website --> https://gokselyesiller.netlify.app/
+![Personal CV](resume/GOKSEL-CV.pdf)
 
 <br><br>
 
