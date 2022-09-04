@@ -7,7 +7,7 @@ transitioning into Software Engineering through self-study. I create awesome MER
 ![Profile View Counter](https://komarev.com/ghpvc/?username=mryesiller)
 <br><br>
 
-* Personal Website --> https://gokselyesiller.netlify.app/
+* [Personal Website](https://gokselyesiller.netlify.app/)
 
 * [Personal CV](resume/GOKSEL-CV.pdf)
 
