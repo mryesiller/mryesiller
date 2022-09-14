@@ -335,6 +335,7 @@ transitioning into Software Engineering through self-study. I create awesome MER
 <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mryesiller&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
   </p>
 </div>
+<br/>
 <div align="center">
   <a
     href="https://github.com/denvercoder1/github-readme-streak-stats"
