@@ -135,6 +135,12 @@ transitioning into Software Engineering through self-study. I create awesome MER
                 title="todo-app-CRUD"        
               >Popupsmart react practicum </a        
             </li>
+             <li>    
+              <a href="https://fimple-react-practicum.netlify.app/"
+                target="blank"
+                title="Credit Calculator"        
+              >Fimple Practicum Credit Calculator </a        
+            </li>
           </ul>  
         </td>            
         <td>
