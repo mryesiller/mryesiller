@@ -180,9 +180,9 @@ transitioning into Software Engineering through self-study. I create awesome MER
 
 <img src="img/9.png" alt="JS" width="140" ><img src="img/2.png" alt="JS" width="140" ><img src="img/3.png" alt="JS" width="150" ><img src="img/6.png" alt="JS" width="140" ><img src="img/8.png" alt="JS" width="140" >
 
-<img src="img/4.png" alt="JS" width="140" ><img src="img/35.png" alt="JS" width="140" >
+<img src="img/4.png" alt="JS" width="140" ><img src="img/7.png" alt="JS" width="140" >
 
-<img src="img/5.png" alt="JS" width="140" ><img src="img/34.png" alt="JS" width="140" >
+<img src="img/5.png" alt="JS" width="140" ><img src="img/11.png" alt="JS" width="140" >
 
 <img src="img/12.png" alt="JS" width="140" ><img src="img/13.png" alt="JS" width="140">
 
