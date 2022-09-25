@@ -210,15 +210,15 @@ transitioning into Software Engineering through self-study. I create awesome MER
 </a>
 </p>             
               
-<br/><br/>          
+<br/>          
 
 <h2 align="center">⚡ Recent Activity ⚡</h2>
               
-<p><b> &#9749; Latest Medium Blogs</b></p>
-              
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gokselyesiller/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@gokselyesiller/0" alt="Latest medium article" width="500">
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gokselyesiller/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@gokselyesiller/1" alt="Latest medium article" width="500"> </a>
-
+<p align="center"><b> &#9749; Latest Medium Blogs</b></p>
+<p align="center">              
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gokselyesiller/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@gokselyesiller/0" alt="Latest medium article" width="600">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gokselyesiller/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@gokselyesiller/1" alt="Latest medium article" width="600"> </a>
+  </p>
 <br/>
   
   <h2 align="center">⚡ Github Stats ⚡</h2>
