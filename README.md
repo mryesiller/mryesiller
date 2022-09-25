@@ -193,7 +193,8 @@ transitioning into Software Engineering through self-study. I create awesome MER
 <hr />
 
 <h2 align="center">⚡ Connect With Me ⚡</h2>
-
+<br/>
+              
 <p align="center">
 <a href="https://twitter.com/MrYesiller">
   <img src="img/20.png" alt="JS" width="140" >
@@ -207,10 +208,20 @@ transitioning into Software Engineering through self-study. I create awesome MER
 <a href="mailto:gokselyesiller@gmail.com">
   <img src="img/23.png" alt="JS" width="140" >
 </a>
-</p>              
+</p>             
               
+<br/><br/>          
+
+<h2 align="center">⚡ Recent Activity ⚡</h2>
               
-<h2 align="center">⚡ Github Stats ⚡</h2>
+<p><b> &#9749; Latest Medium Blogs</b></p>
+              
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gokselyesiller/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@gokselyesiller/0" alt="Latest medium article">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gokselyesiller/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@gokselyesiller/1" alt="Latest medium article"> </a>
+
+<br/>
+  
+  <h2 align="center">⚡ Github Stats ⚡</h2>
 <br />
 <div align="center">
   <p>
@@ -233,15 +244,6 @@ transitioning into Software Engineering through self-study. I create awesome MER
   </a>  
 </div>
 
-<br /><br />              
-
-<h2 align="center">⚡ Recent Activity ⚡</h2>
-              
-<p><b> &#9749; Latest Medium Blogs</b></p>
-              
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gokselyesiller/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@gokselyesiller/0" alt="Latest medium article">
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gokselyesiller/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@gokselyesiller/1" alt="Latest medium article"> </a>
-
-<br/>
+<br /><br />    
 
 
