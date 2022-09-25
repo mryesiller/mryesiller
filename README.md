@@ -5,8 +5,10 @@ transitioning into Software Engineering through self-study. I create awesome MER
 
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=mryesiller)
-<br><br>
+<br/><br/>
 
+
+<p align="center">
 <a href="https://gokselyesiller.netlify.app/">
   <img src="img/42.png" alt="JS" width="140" >
 </a>
@@ -14,7 +16,7 @@ transitioning into Software Engineering through self-study. I create awesome MER
 <a href="resume/GOKSEL-CV.pdf">
   <img src="img/41.png" alt="JS" width="140" >
 </a>
-
+</p>
 
 
 <br><br>
