@@ -180,7 +180,7 @@ transitioning into Software Engineering through self-study. I create awesome MER
 
 <hr />
 
-<h2 align="center">🔥 TOOLS I use during the day 🔥</h2>
+<h2 align="center">🔥 TOOLS and WEBSITES I use during the day 🔥</h2>
 <br />
 
 <img src="img/14.png" alt="JS" width="140" ><img src="img/31.png" alt="JS" width="140" ><img src="img/19.png" alt="JS" width="140" ><img src="img/27.png" alt="JS" width="140" >
