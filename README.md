@@ -166,76 +166,17 @@ transitioning into Software Engineering through self-study. I create awesome MER
 </div>  
 
 <hr />
-<h2 align="center">:trident: Languages and Technologies :trident:</h2>
-<p align="center">
-  <a href="https://www.w3schools.com/cs/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-      alt="csharp"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3schools.com/python/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="python"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="css3"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-  >
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://nodejs.org/en/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
-      alt="nodejs"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react"
-      width="40"
-      height="40"
-    />
-  </a>
-   <a href="https://remix.ethereum.org/" target="_blank">
-    <img
-      src="https://www.logosvgpng.com/wp-content/uploads/2018/10/solidity-logo-vector.png"
-      alt="remix"
-      width="40"
-      height="40"
-    />
-  </a>
-</p>
+<h2 align="center">:trident: TECH STACK :trident:</h2>
+
+<img src="img/1.png" alt="JS" width="140"><img src="img/10.png" alt="JS" width="140">
+
+<img src="img/9.png" alt="JS" width="140"><img src="img/2.png" alt="JS" width="140"><img src="img/3.png" alt="JS" width="150"><img src="img/6.png" alt="JS" width="140"><img src="img/8.png" alt="JS" width="140">
+
+<img src="img/4.png" alt="JS" width="140"><img src="img/7.png" alt="JS" width="140">
+
+<img src="img/5.png" alt="JS" width="140"><img src="img/11.png" alt="JS" width="140">
+
+<img src="img/12.png" alt="JS" width="140"><img src="img/13.png" alt="JS" width="140">
 
 <hr />
 
