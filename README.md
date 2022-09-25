@@ -228,7 +228,7 @@ transitioning into Software Engineering through self-study. I create awesome MER
 
 <h2 align="center">⚡ Connect With Me ⚡</h2>
 
-<p left="center">
+<p align="center">
 <a href="https://twitter.com/MrYesiller">
   <img src="img/20.png" alt="JS" width="140" >
 </a> 
