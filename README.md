@@ -177,7 +177,7 @@ transitioning into Software Engineering through self-study. I create awesome MER
 
 <img src="img/9.png" alt="JS" width="140" ><img src="img/2.png" alt="JS" width="140" ><img src="img/3.png" alt="JS" width="150" ><img src="img/6.png" alt="JS" width="140" ><img src="img/8.png" alt="JS" width="140" >
 
-<img src="img/4.png" alt="JS" width="140" ><img src="img/7.png" alt="JS" width="140" >
+<img src="img/4.png" alt="JS" width="140" ><img src="img/7.png" alt="JS" width="140" ><img src="img/34.png" alt="JS" width="140" >
 
 <img src="img/5.png" alt="JS" width="140" ><img src="img/11.png" alt="JS" width="140" >
 
@@ -188,9 +188,9 @@ transitioning into Software Engineering through self-study. I create awesome MER
 <h2 align="center">🔥 TOOLS and WEBSITES I use during the day 🔥</h2>
 <br />
 
-<img src="img/14.png" alt="JS" width="140" ><img src="img/19.png" alt="JS" width="140" ><img src="img/27.png" alt="JS" width="140" ><img src="img/33.png" alt="JS" width="140" ><img src="img/35.png" alt="JS" width="140" ><img src="img/18.png" alt="JS" width="140" >
+<img src="img/14.png" alt="JS" width="140" ><img src="img/19.png" alt="JS" width="140" ><img src="img/27.png" alt="JS" width="140" ><img src="img/33.png" alt="JS" width="140" ><img src="img/35.png" alt="JS" width="140" ><img src="img/18.png" alt="JS" width="140" ><img src="img/43.png" alt="JS" width="140" >
 
-<img src="img/28.png" alt="JS" width="140" ><img src="img/21.png" alt="JS" width="140" ><img src="img/24.png" alt="JS" width="140" ><img src="img/26.png" alt="JS" width="140" ><img src="img/25.png" alt="JS" width="140" ><img src="img/37.png" alt="JS" width="140" ><img src="img/36.png" alt="JS" width="140" ><img src="img/40.png" alt="JS" width="140" ><img src="img/39.png" alt="JS" width="140" ><img src="img/31.png" alt="JS" width="140" ><img src="img/32.png" alt="JS" width="140" >
+<img src="img/28.png" alt="JS" width="140" ><img src="img/21.png" alt="JS" width="140" ><img src="img/24.png" alt="JS" width="140" ><img src="img/26.png" alt="JS" width="140" ><img src="img/25.png" alt="JS" width="140" ><img src="img/37.png" alt="JS" width="140" ><img src="img/36.png" alt="JS" width="140" ><img src="img/40.png" alt="JS" width="140" ><img src="img/39.png" alt="JS" width="140" ><img src="img/31.png" alt="JS" width="140" ><img src="img/32.png" alt="JS" width="140" ><img src="img/30.png" alt="JS" width="140" >
               
 <img src="img/16.png" alt="JS" width="140" ><img src="img/17.png" alt="JS" width="140" ><img src="img/29.png" alt="JS" width="140" ><img src="img/38.png" alt="JS" width="140" ><img src="img/44.png" alt="JS" width="140" >              
               
