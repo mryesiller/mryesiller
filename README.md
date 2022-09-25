@@ -7,10 +7,6 @@ transitioning into Software Engineering through self-study. I create awesome MER
 ![Profile View Counter](https://komarev.com/ghpvc/?username=mryesiller)
 <br><br>
 
-* [Personal Website](https://gokselyesiller.netlify.app/)
-
-* [Personal CV](resume/GOKSEL-CV.pdf)
-
 <a href="https://gokselyesiller.netlify.app/">
   <img src="img/42.png" alt="JS" width="140" >
 </a>
@@ -19,9 +15,8 @@ transitioning into Software Engineering through self-study. I create awesome MER
   <img src="img/41.png" alt="JS" width="140" >
 </a>
 
-<br><br>
 
-✔️ I'm currently learning and developing on  --> **Javascript** - **ReactJS** - **NodeJS** - **Docker** - **Solidity** - **Web3** 
+
 <br><br>
 
 <h2 align="center">:open_file_folder: PROJECTS :open_file_folder:</h2>
