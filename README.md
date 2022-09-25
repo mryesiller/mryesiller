@@ -192,6 +192,24 @@ transitioning into Software Engineering through self-study. I create awesome MER
               
 <hr />
 
+<h2 align="center">⚡ Connect With Me ⚡</h2>
+
+<p align="center">
+<a href="https://twitter.com/MrYesiller">
+  <img src="img/20.png" alt="JS" width="140" >
+</a> 
+<a href="https://www.linkedin.com/in/gokselyesiller/">
+  <img src="img/22.png" alt="JS" width="140" >
+</a> 
+<a href="https://medium.com/@gokselyesiller">
+  <img src="img/21.png" alt="JS" width="140" >
+</a>
+<a href="mailto:gokselyesiller@gmail.com">
+  <img src="img/23.png" alt="JS" width="140" >
+</a>
+</p>              
+              
+              
 <h2 align="center">⚡ Github Stats ⚡</h2>
 <br />
 <div align="center">
@@ -226,19 +244,4 @@ transitioning into Software Engineering through self-study. I create awesome MER
 
 <br/>
 
-<h2 align="center">⚡ Connect With Me ⚡</h2>
 
-<p align="center">
-<a href="https://twitter.com/MrYesiller">
-  <img src="img/20.png" alt="JS" width="140" >
-</a> 
-<a href="https://www.linkedin.com/in/gokselyesiller/">
-  <img src="img/22.png" alt="JS" width="140" >
-</a> 
-<a href="https://medium.com/@gokselyesiller">
-  <img src="img/21.png" alt="JS" width="140" >
-</a>
-<a href="mailto:gokselyesiller@gmail.com">
-  <img src="img/23.png" alt="JS" width="140" >
-</a>
-</p>
