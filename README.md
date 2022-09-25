@@ -180,98 +180,16 @@ transitioning into Software Engineering through self-study. I create awesome MER
 
 <hr />
 
-<h2 align="center">🔥 Tools 🔥</h2>
+<h2 align="center">🔥 TOOLS I use during the day 🔥</h2>
 <br />
-<p align="center">
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"
-      alt="vscode"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://visualstudio.microsoft.com/tr/" target="_blank">
-    <img
-      src="https://www.pikpng.com/pngl/m/216-2164742_visual-studio-2013-logo-visual-studio-logo-png.png"
-      alt="vscode"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://discord.com/" target="_blank">
-    <img
-      src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png"
-      alt="discord"
-      width="30"
-      height="30"
-    />
-  </a>
-  <a href="https://postman.com" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-      alt="postman"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
-      alt="photoshop"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://trello.com/en" target="_blank">
-    <img
-      src="https://cdn.iconscout.com/icon/free/png-512/trello-6-569395.png"
-      alt="trello"
-      width="40"
-      height="40"
-    />
-  </a>
-   <a href="https://aws.amazon.com/" target="_blank">
-    <img
-      src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fa0.awsstatic.com%2Flibra-css%2Fimages%2Flogos%2Faws_logo_smile_1200x630.png&f=1&nofb=1"
-      alt="aws"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.heroku.com/" target="_blank">
-    <img
-      src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdailysmarty-production.s3.amazonaws.com%2Fuploads%2Fpost%2Fimg%2F509%2Fheroku-logo.jpg&f=1&nofb=1"
-      alt="heroku"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.travis-ci.com/" target="_blank">
-    <img
-      src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fseekicon.com%2Ffree-icon-download%2Ftravis-ci_1.png&f=1&nofb=1"
-      alt="travis cı"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img
-      src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdatawokagaku.com%2Fwp-content%2Fuploads%2F2020%2F01%2Fdocker_icon.png&f=1&nofb=1"
-      alt="docker"
-      width="40"
-      height="40"
-    />
-  </a>
-    <a href="https://gitforwindows.org/" target="_blank">
-    <img
-      src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fobscureproblemsandgotchas.com%2Fwp-content%2Fuploads%2F2018%2F09%2FGit-bash.png&f=1&nofb=1"
-      alt="gitbash"
-      width="40"
-      height="40"
-    />
-  </a>
-</p>
+
+<img src="img/14.png" alt="JS" width="140" ><img src="img/31.png" alt="JS" width="140" ><img src="img/19.png" alt="JS" width="140" ><img src="img/27.png" alt="JS" width="140" >
+
+<img src="img/28.png" alt="JS" width="140" ><img src="img/21.png" alt="JS" width="140" ><img src="img/24.png" alt="JS" width="140" ><img src="img/26.png" alt="JS" width="140" ><img src="img/25.png" alt="JS" width="140" >
+              
+<img src="img/16.png" alt="JS" width="140" ><img src="img/28.png" alt="JS" width="140" ><img src="img/32.png" alt="JS" width="140" ><img src="img/17.png" alt="JS" width="140" >              
+              
+              
 <hr />
 
 <h2 align="center">⚡ Github Stats ⚡</h2>
@@ -312,15 +230,15 @@ transitioning into Software Engineering through self-study. I create awesome MER
 
 <p left="center">
 <a href="https://twitter.com/MrYesiller">
-  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
+  <img src="img/20.png" alt="JS" width="140" >
 </a> 
 <a href="https://www.linkedin.com/in/gokselyesiller/">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
+  <img src="img/22.png" alt="JS" width="140" >
 </a> 
 <a href="https://medium.com/@gokselyesiller">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height=25>
+  <img src="img/21.png" alt="JS" width="140" >
 </a>
 <a href="mailto:gokselyesiller@gmail.com">
-  <img src="	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
+  <img src="img/23.png" alt="JS" width="140" >
 </a>
 </p>
