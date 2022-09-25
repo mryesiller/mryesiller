@@ -216,8 +216,8 @@ transitioning into Software Engineering through self-study. I create awesome MER
               
 <p align="center"><b> &#9749; Latest Medium Blogs</b></p>
 <p align="center">              
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gokselyesiller/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@gokselyesiller/0" alt="Latest medium article"  height="200">
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gokselyesiller/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@gokselyesiller/1" alt="Latest medium article"  height="200"> </a>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gokselyesiller/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@gokselyesiller/0" alt="Latest medium article" width="400"  height="100">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gokselyesiller/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@gokselyesiller/1" alt="Latest medium article" width="400"  height="100"> </a>
   </p>
 <br/>
   
