@@ -1,7 +1,7 @@
-<h2 align="center">Hi there 👋</h2>
+<h2 align="center">Hello World 👋</h2>
 
 Welcome to my GitHub! I'm Goksel Yesiller, a System Engineering graduate who's
-transitioning into Software Engineering through self-study. I create awesome MERN projects.
+transitioning into Software Engineering through self-study.
 
 FIMPLE
 
