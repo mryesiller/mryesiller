@@ -165,8 +165,6 @@
               
 <br/>          
 
-<h2 align="center">⚡ Recent Activity ⚡</h2>
-              
 <p align="center"><b> &#9749; Latest Medium Blogs</b></p>
 <p align="center">              
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gokselyesiller/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@gokselyesiller/0" alt="Latest medium article" width="500">
