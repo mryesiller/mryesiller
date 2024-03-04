@@ -8,6 +8,7 @@
       <a href="https://twitter.com/MrYesiller" title="Twitter - @MrYesiller"><img src="https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
       <a href="https://www.linkedin.com/in/gokselyesiller" title="LinkedIn - Goksel Yesiller"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
       <a href="https://www.instagram.com/gokselyesiller" title="Instagram - Goksel Yesiller"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+     <a href="mailto:gokselyesiller@gmail.com" title="Mail - Goksel Yesiller"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
   </kbd>
 </p>
 
