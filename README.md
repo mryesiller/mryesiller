@@ -170,26 +170,7 @@ FIMPLE
      </tr>      
   </table>      
 </div>  
-
 <hr />
-
-<h2 align="center">⚡ Connect With Me ⚡</h2>
-<br/>
-              
-<p align="center">
-<a href="https://twitter.com/MrYesiller">
-  <img src="img/20.png" alt="JS" width="140" >
-</a> 
-<a href="https://www.linkedin.com/in/gokselyesiller/">
-  <img src="img/22.png" alt="JS" width="140" >
-</a> 
-<a href="https://medium.com/@gokselyesiller">
-  <img src="img/21.png" alt="JS" width="140" >
-</a>
-<a href="mailto:gokselyesiller@gmail.com">
-  <img src="img/23.png" alt="JS" width="140" >
-</a>
-</p>             
               
 <br/>          
 
@@ -202,29 +183,5 @@ FIMPLE
   </p>
 <br/>
   
-  <h2 align="center">⚡ Github Stats ⚡</h2>
-<br />
-<div align="center">
-  <p>
-  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=mryesiller&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
-<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mryesiller&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-  </p>
-</div>
-
-<div align="center">
-  <a
-    href="https://github.com/denvercoder1/github-readme-streak-stats"
-    title="Go to Source"
-  >
-    <img
-      align="center"
-      width="396"
-      src="https://github-readme-streak-stats.herokuapp.com/?user=mryesiller&theme=react&border=61dafb&hide_border=true"
-      alt="zumrudu-anka"
-    />
-  </a>  
-</div>
-
-<br /><br />    
 
 
