@@ -1,21 +1,17 @@
 <h2 align="center">Hello Im Goksel 👋</h2>
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=mryesiller)
-<br/><br/>
+<br/>
 
 
 <p align="center">
 <a href="https://gokselyesiller.netlify.app/">
   <img src="img/42.png" alt="JS" width="140" >
 </a>
-
-<a href="resume/GOKSEL-CV.pdf">
-  <img src="img/41.png" alt="JS" width="140" >
-</a>
 </p>
 
 
-<br><br>
+<br>
 
 <h2 align="center">:open_file_folder: PROJECTS :open_file_folder:</h2>
 
