@@ -1,5 +1,5 @@
 <!-- Title -->
-<h2>👋 Hi there, I'm Goksel! I am a Developer with a passion for coding. You can find my projects below and connect with me on social links.</h2>
+<h3>👋 Hi there, I'm Goksel! I am a Developer with a passion for coding. You can find my projects below and connect with me on social links.</h3>
 <br/>
 
 <!-- Profile View Counter -->
@@ -15,6 +15,7 @@
      <a target="_blank" href="mailto:gokselyesiller@gmail.com" title="Mail - Goksel Yesiller"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
   </kbd>
 </p>
+<br/>
 
 <!-- Tech Stack -->  
 <p>
