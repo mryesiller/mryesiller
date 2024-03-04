@@ -15,7 +15,6 @@
      <a target="_blank" href="mailto:gokselyesiller@gmail.com" title="Mail - Goksel Yesiller"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
   </kbd>
 </p>
-<br/>
 
 <!-- Tech Stack -->  
 <p>
@@ -31,7 +30,6 @@
 **Editors** | [![VS Code](https://img.shields.io/static/v1?label=&message=VS%20Code&color=9013FE&logo=visualstudiocode&logoColor=FFFFFF)](https://code.visualstudio.com/)
 
 </p>
-
 <br/>
 
 <h2 align="center">:open_file_folder: PROJECTS :open_file_folder:</h2>
@@ -183,15 +181,14 @@
   </table>      
 </div>  
 <hr />
-              
 <br/>          
 
-<p align="center"><b> &#9749; Latest Medium Blogs</b></p>
-<p align="center">              
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gokselyesiller/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@gokselyesiller/0" alt="Latest medium article" width="500">
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gokselyesiller/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@gokselyesiller/1" alt="Latest medium article" width="500"> </a>
-  </p>
-<br/>
+<!-- Blog -->
+<p><b> &#9749; Latest Medium Blogs</b></p>
+<p>              
+   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gokselyesiller/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@gokselyesiller/0" alt="Latest medium article" width="500">
+   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gokselyesiller/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@gokselyesiller/1" alt="Latest medium article" width="500"> </a>
+</p>
   
 
 
