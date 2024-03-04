@@ -3,11 +3,6 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=mryesiller)
 <br/>
 
-
-  [![Twitter](https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/MrYesiller)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/gokselyesiller)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/gokselyesiller)
-
   <p align="center">
    <kbd>
       <a href="https://twitter.com/MrYesiller" title="Twitter - @MrYesiller"><img src="https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
