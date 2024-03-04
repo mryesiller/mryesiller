@@ -1,10 +1,11 @@
-<h2 align="center">Hello Im Goksel 👋</h2>
+<h2>👋 Hello Im Goksel</h2>
 
-  ![Profile View Counter](https://komarev.com/ghpvc/?username=mryesiller)
-
+<!-- Profile View Counter -->
+![Profile View Counter](https://komarev.com/ghpvc/?username=mryesiller)
 <br/>
 
-  <p align="center">
+<!-- Social Links -->
+<p align="center">
    <kbd>
       <a target="_blank" href="https://twitter.com/MrYesiller" title="Twitter - @MrYesiller"><img src="https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
       <a target="_blank" href="https://www.linkedin.com/in/gokselyesiller" title="LinkedIn - Goksel Yesiller"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
@@ -12,6 +13,7 @@
      <a target="_blank" href="mailto:gokselyesiller@gmail.com" title="Mail - Goksel Yesiller"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
   </kbd>
 </p>
+<br/>
 
 <!-- Tech Stack -->  
 <p align="center">
