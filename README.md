@@ -10,10 +10,10 @@
 </a>
 </p>
 
-<p>
+
   [![Twitter](https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/MrYesiller)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/gokselyesiller)
-</p>
+
 
 
 
