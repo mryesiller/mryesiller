@@ -1,6 +1,9 @@
 <h2 align="center">Hello Im Goksel 👋</h2>
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=mryesiller)
+<p align="center">
+    ![Profile View Counter](https://komarev.com/ghpvc/?username=mryesiller)
+</p>
+
 <br/>
 
   <p align="center">
@@ -12,11 +15,9 @@
   </kbd>
 </p>
 
-
 <!-- Tech Stack -->  
-  <summary><b>🛠️ Tech Stack</b></summary>
-    <p align="center">
-
+<p align="center">
+<kbd>
 | **Category** | **Technologies** |
 | - | - |
 **Frontend** | [![React](https://img.shields.io/static/v1?label=&message=React&color=61DAFB&logo=react&logoColor=FFFFFF)](https://reactjs.org/)
@@ -26,8 +27,10 @@
 **Testing** | [![Selenium](https://img.shields.io/static/v1?label=&message=Selenium&color=43B02A&logo=selenium&logoColor=FFFFFF)](https://www.selenium.dev/)
 **Misc** | [![Linux](https://img.shields.io/static/v1?label=&message=Linux&color=FCC624&logo=linux&logoColor=FFFFFF)](https://www.linux.org/) [![Markdown](https://img.shields.io/static/v1?label=&message=Markdown&color=000000&logo=markdown&logoColor=FFFFFF)](https://en.wikipedia.org/wiki/Markdown)
 **Editors** | [![VS Code](https://img.shields.io/static/v1?label=&message=VS%20Code&color=9013FE&logo=visualstudiocode&logoColor=FFFFFF)](https://code.visualstudio.com/)
-      
-  </p>
+</kbd>
+</p>
+
+<br/>
 
 <h2 align="center">:open_file_folder: PROJECTS :open_file_folder:</h2>
 
