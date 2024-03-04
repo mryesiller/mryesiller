@@ -1,4 +1,6 @@
-<h2>👋 Hello Im Goksel</h2>
+<!-- Title -->
+<h2>👋 Hi there, I'm Goksel! I am a Developer with a passion for coding. You can find my projects below and connect with me on social links.</h2>
+<br/>
 
 <!-- Profile View Counter -->
 ![Profile View Counter](https://komarev.com/ghpvc/?username=mryesiller)
@@ -16,7 +18,7 @@
 <br/>
 
 <!-- Tech Stack -->  
-<p align="center">
+<p>
     
 | **Category** | **Technologies** |
 | - | - |
