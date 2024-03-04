@@ -1,8 +1,6 @@
 <h2 align="center">Hello Im Goksel 👋</h2>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=mryesiller">Profile View Counter</a>
-</p>
+  ![Profile View Counter](https://komarev.com/ghpvc/?username=mryesiller)
 
 <br/>
 
