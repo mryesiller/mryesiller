@@ -5,7 +5,7 @@
 <br/>
 
 <!-- Social Links -->
-<p align="center">
+<p>
    <kbd>
       <a target="_blank" href="https://twitter.com/MrYesiller" title="Twitter - @MrYesiller"><img src="https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
       <a target="_blank" href="https://www.linkedin.com/in/gokselyesiller" title="LinkedIn - Goksel Yesiller"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
