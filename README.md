@@ -8,6 +8,14 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/gokselyesiller)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/gokselyesiller)
 
+  <p align="center">
+   <kbd>
+      <a href="https://twitter.com/MrYesiller" title="Twitter - @MrYesiller"><img src="https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
+      <a href="https://www.linkedin.com/in/gokselyesiller" title="LinkedIn - Goksel Yesiller"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
+      <a href="https://www.instagram.com/gokselyesiller" title="Instagram - Goksel Yesiller"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+  </kbd>
+</p>
+
 
 <h2 align="center">:open_file_folder: PROJECTS :open_file_folder:</h2>
 
