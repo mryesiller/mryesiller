@@ -35,6 +35,8 @@
 </p>
 <br/>
 
+
+<!--
 <h2 align="center">:open_file_folder: PROJECTS :open_file_folder:</h2>
 
 <div align="left">
@@ -184,7 +186,8 @@
   </table>      
 </div>  
 <hr />
-<br/>          
+<br/>
+-->
 
 <!-- Blog -->
 <p><b> &#9749; Latest Medium Blogs</b></p>
