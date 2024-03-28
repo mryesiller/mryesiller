@@ -1,5 +1,5 @@
 <!-- Title -->
-<h3>Hi there, I'm Goksel! I am a Developer with a passion for coding. You can find my projects below and connect with me on social links.</h3>
+<h3>Hi there,  I'm Goksel! I am a Developer with a passion for coding. You can find my projects below and connect with me on social links.</h3>
 <br/>
 
 <!-- Profile View Counter -->
