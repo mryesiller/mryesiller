@@ -36,6 +36,16 @@
 <br/>
 
 
+
+
+<!-- Blog -->
+<p><b> &#9749; Latest Medium Blogs</b></p>
+<p>              
+   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gokselyesiller/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@gokselyesiller/0" alt="Latest medium article" width="500">
+   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gokselyesiller/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@gokselyesiller/1" alt="Latest medium article" width="500"> </a>
+</p>
+  
+
 <!--
 <h2 align="center">:open_file_folder: PROJECTS :open_file_folder:</h2>
 
@@ -188,13 +198,3 @@
 <hr />
 <br/>
 -->
-
-<!-- Blog -->
-<p><b> &#9749; Latest Medium Blogs</b></p>
-<p>              
-   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gokselyesiller/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@gokselyesiller/0" alt="Latest medium article" width="500">
-   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gokselyesiller/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@gokselyesiller/1" alt="Latest medium article" width="500"> </a>
-</p>
-  
-
-
